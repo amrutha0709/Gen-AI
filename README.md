@@ -10,10 +10,10 @@ This project is currently under development. Its goal is to build a Retrieval-Au
 
 ## Planned Features
 
--Dataset enhancement with historical claims, customer feedback, and competitor data.
--Comprehensive data preprocessing (standardization, encoding, anonymization).
--Document store setup with vector databases (e.g., Pinecone, FAISS) for efficient retrieval.
--Fine-tuning generative models (e.g., GPT-4, T5) for personalized recommendations.
--Implementation of a Retrieval-Augmented Generation (RAG) pipeline for context-based responses.
--Testing, validation, and performance optimization of the pipeline.
--Deployment and continuous monitoring in production.
+- Dataset enhancement with historical claims, customer feedback, and competitor data.
+ - Comprehensive data preprocessing (standardization, encoding, anonymization).
+- Document store setup with vector databases (e.g., Pinecone, FAISS) for efficient retrieval.
+- Fine-tuning generative models (e.g., GPT-4, T5) for personalized recommendations.
+- Implementation of a Retrieval-Augmented Generation (RAG) pipeline for context-based responses.
+- Testing, validation, and performance optimization of the pipeline.
+- Deployment and continuous monitoring in production.
